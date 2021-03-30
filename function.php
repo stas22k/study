@@ -26,3 +26,8 @@ function debug($data, $die = false)
         die;
     }
 }
+
+function cube()
+{
+    return 2*2;
+}
